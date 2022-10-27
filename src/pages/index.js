@@ -33,7 +33,7 @@ const IndexPage = () => {
 
           <footer className='footer'>
             <a
-              href="https://avaizur.com"
+              href="https://acloud.guru"
             >
               Powered by{' '}
               <span className='logo'>
