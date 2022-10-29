@@ -20,7 +20,7 @@ const IndexPage = () => {
             <code className='title_code'>Cloud Coffee</code>
           </h1>
 
-          <h4 className='title'>Launch Date just Announced!!!</h4>
+          <h4 className='title'>Launch Date Announced!!!</h4>
       
 
           <p className='description'>
@@ -37,7 +37,7 @@ const IndexPage = () => {
             >
               Powered by{' '}
               <span className='logo'>
-                <StaticImage src="../images/ACG_Orange_Logo_Horizontal.png" alt="A Cloud Guru logo" width={119} height={16} />
+                <StaticImage src="../images/nmc_managedservices.png" alt="A Cloud Guru logo" width={119} height={16} />
               </span>
             </a>
           </footer>
